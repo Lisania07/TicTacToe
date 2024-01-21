@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=TicTacToe
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ board()
+comment3.params=
+comment3.target=void\ switchPlayer()
+comment4.params=scanner
+comment4.target=void\ promptMove(java.util.Scanner)
+comment5.params=row\ col
+comment5.target=boolean\ isValidMove(int,\ int)
+comment6.params=player
+comment6.target=boolean\ hasWon(java.lang.String)
+comment7.params=
+comment7.target=void\ resetGame()
+numComments=8
